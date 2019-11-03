@@ -19,7 +19,11 @@
  under the License.
 */
 ;(function() {
+<<<<<<< HEAD
 var PLATFORM_VERSION_BUILD_LABEL = '8.2.0-dev';
+=======
+var PLATFORM_VERSION_BUILD_LABEL = '8.1.0';
+>>>>>>> backbuttonfix
 // file: src/scripts/require.js
 var require;
 var define;
